@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Vivado v2021.2 (64-bit)
+# SW Build 3367213 on Tue Oct 19 02:48:09 MDT 2021
+# IP Build 3369179 on Thu Oct 21 08:25:16 MDT 2021
+# Start of session at: Tue Feb 28 05:06:23 2023
+# Process ID: 35100
+# Current directory: C:/Users/alygh/iCloudDrive/Desktop/College/CMPEN 331/Lab Division Algorithm/LabDivision
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent18704 C:\Users\alygh\iCloudDrive\Desktop\College\CMPEN 331\Lab Division Algorithm\LabDivision\LabDivision.xpr
+# Log file: C:/Users/alygh/iCloudDrive/Desktop/College/CMPEN 331/Lab Division Algorithm/LabDivision/vivado.log
+# Journal file: C:/Users/alygh/iCloudDrive/Desktop/College/CMPEN 331/Lab Division Algorithm/LabDivision\vivado.jou
+# Running On: Aly, OS: Windows, CPU Frequency: 2304 MHz, CPU Physical cores: 8, Host memory: 34108 MB
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/alygh/iCloudDrive/Desktop/College/CMPEN 331/Lab Division Algorithm/LabDivision/LabDivision.xpr}
+update_compile_order -fileset sources_1
